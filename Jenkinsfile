@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/techdeepakkalal/python-flask-cicd-kubernetes..git'
+                git branch: 'main', url: 'https://github.com/techdeepakkalal/python-flask-cicd-kubernetes.git'
             }
         }
 
