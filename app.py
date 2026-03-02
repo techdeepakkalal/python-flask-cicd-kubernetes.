@@ -74,18 +74,18 @@ html_page = """
     <div class="container">
         <div class="card">
             <h1>🚀 DevOps & Multi Cloud</h1>
-            <h2>Traning Present By The Veera Sir</h2>
+            <h2>Treaning Present By The Veera Sir</h2>
 
             <div class="logos">
                 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">
                 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg">
-                <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg">
+                <img src="https://www.vincenzoracca.com/images/container/kubernetes/k8s0.png">
                 <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg">
                 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg">
             </div>
 
             <div class="badge">
-                🔥 AWS | AZURE | GCP | Terraform | CI/CD | Docker | Kubernetes | 
+                AWS | AZURE | GCP | Terraform | CI/CD | Docker | Kubernetes | Ansible 
             </div>
 
             <div class="footer">
